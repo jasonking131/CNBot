@@ -1,0 +1,7 @@
+﻿telegram:
+  bot_token: "8068755469:AAEhbNPJOeEjZNdnvtgOgKqhMWW4yotDZnc"
+
+destinations:
+  sneakers:
+    chat_id: -1001234567890
+    message_thread_id: null
