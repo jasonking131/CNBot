@@ -1,0 +1,7 @@
+﻿telegram:
+  bot_token: "PUT_TOKEN_IN_.env_NOT_HERE"
+  default_chat_id: "@CNVendors"
+openai:
+  api_key: "PUT_KEY_IN_.env_NOT_HERE"
+affiliate:
+  domain: "YOUR-AFFILIATE-DOMAIN.com"
