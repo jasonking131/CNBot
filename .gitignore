@@ -2,4 +2,10 @@
 __pycache__/
 *.pyc
 .env
-cnbot.db
+cnbot.db.env
+config/config.yaml
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
